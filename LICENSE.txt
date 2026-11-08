@@ -1,0 +1,9 @@
+KURUTSO — License Terms
+
+1) Usage License ($5 USD)
+Grants a non-exclusive, worldwide, perpetual right to use KURUTSO in personal and commercial projects (websites, streams, shows, installations, videos). You may not resell, redistribute or sublicense the source code itself, and you may not claim authorship.
+
+2) Full Copyright Buyout ($121 USD)
+Upon payment, the seller transfers all economic/authorship rights in the KURUTSO source code to the buyer. The buyer may modify, rebrand, publish and resell the code without restriction. This is a one-time exclusive sale: once completed, the seller will not offer the exclusive rights to any other party.
+
+Both tiers include the complete single-file source (kurutso.html). No warranty; the app is provided "as is".
